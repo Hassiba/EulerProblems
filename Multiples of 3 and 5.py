@@ -11,4 +11,3 @@ for i in range(lower, upper):
         total = total + i
 
 print("The sum of all the multiples of 3 or 5 from ", lower, "to", upper, "is:", total)
-
